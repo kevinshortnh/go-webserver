@@ -4,5 +4,5 @@ Build and run:
 
 ```
 docker build -t go-webserver .
-docker run -p 80:80 go-webserver
+docker run -p 8080:8080 go-webserver
 ```
